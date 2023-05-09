@@ -1,0 +1,48 @@
+builddrafts = false
+canonifyurls = false
+languageCode = "en"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+theme = "hugo-goa"
+
+author = "Burak KADİRBEYOĞLU"
+title = "Burak KADİRBEYOĞLU"
+
+## Hugo Built-in Features
+googleAnalytics = "G-P4NXQ62ZKS"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Burak KADİRBEYOĞLU"
+intro = ""
+description = """
+Senior software consultant and developer.  
+<br/>
+Specializes in Cloud Backend.
+"""
+authorimage = "profile_picture.jpg"
+
+## Site Meta Settings
+[params.meta]
+description = "Senior software developer Burak KADİRBEYOĞLU"
+keywords = "software, web, cloud, senior, engineer, developer, consultant, architect, freelance, back-end, backend, full-stack, fullstack, development"
+
+## Social Accounts
+[params.social]
+github = "bkadirbeyoglu"
+stackoverflow = "916538/burakk"
+linkedin = "bkadirbeyoglu"
+email = "bkadirbeyoglu@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2023. Burak KADİRBEYOĞLU. [Some Rights Reserved](https://creativecommons.org/licenses/by/3.0/)."
+poweredby = false
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = false
