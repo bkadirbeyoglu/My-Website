@@ -29,7 +29,7 @@ authorimage = "profile_picture.jpg"
 ## Site Meta Settings
 [params.meta]
 description = "Senior software developer Burak KADİRBEYOĞLU"
-keywords = "software, web, cloud, senior, engineer, developer, consultant, architect, freelance, back-end, backend, full-stack, fullstack, development"
+keywords = "software, web, cloud, senior, engineer, developer, consultant, architect, freelance, back-end, backend, full-stack, fullstack, development, kadirbeyoğlu, ailesi"
 
 ## Social Accounts
 [params.social]
